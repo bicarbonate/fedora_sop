@@ -23,9 +23,9 @@ Owner
 Contact
 	#fedora-admin, #fedora-noc or admin@fedoraproject.org	
 Location
-
+	Phoenix DC
 Server(s)
-	sundries01
+	sundries01.phx2.fedoraproject.org
 Purpose
 	To explain the overall function of this page, where and how it get's it's information.
 
