@@ -27,7 +27,7 @@ Location
 Server(s)
 	sundries01.phx2.fedoraproject.org
 Purpose
-	To explain the overall function of this page, where and how it get's it's information.
+	To explain the overall function of this page, where, and how it gets its information.
 
 Introduction
 ============
@@ -40,7 +40,7 @@ Organization includes the following ‘categories’:
 	Needsponser
 	Hidden
 	Under Review
-Each ticket references a source RH Bugzilla Bug entry, and generates the categories of tickets as 
+Each ticket references a source RH Bugzilla Bug entry and generates the categories of tickets as 
 stated above, based off multiple fields values, for easier viewing and report generation.  
 Page also include searchable fields allowing a search by package name, and either email address 
 for reviews, for packages or for commented reviews.
