@@ -42,6 +42,6 @@ Organization includes the following ‘categories’:
 	Under Review
 Each ticket references a source RH Bugzilla Bug entry and generates the categories of tickets as 
 stated above, based off multiple fields values, for easier viewing and report generation.  
-Page also include searchable fields allowing a search by package name, and either email address 
+Page also include searchable fields allowing a user to search by package name; and either email address 
 for reviews, for packages or for commented reviews.
 	
